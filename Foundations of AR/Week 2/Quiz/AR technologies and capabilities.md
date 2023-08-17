@@ -37,7 +37,7 @@
 6. Which type of AR allows users to preview an art piece on their bedroom walls or try out furniture in their homes on a browser?
 
    - [ ] AR on a mobile app
-   - [ ] AR on social media
+   - [x] **AR on social media**
    - [ ] Web AR
    - [ ] AR on a desktop
      > Viewing art on a wall or trying out furniture in a room can be done right on a browser.

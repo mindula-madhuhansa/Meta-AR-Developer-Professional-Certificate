@@ -3,7 +3,7 @@
    - [ ] Web AR
    - [x] **AR on Social Media**
    - [ ] AR on a mobile app
-     > AR on social media will typically have the biggest reach to users since social media is where most users spend their time.
+     > AR on social media will typically have the biggest reach to users since social media is where most users spend their time
 
 2. Where should developers and businesses start when deciding on a type of AR to utilize for an experience?
 
@@ -13,7 +13,7 @@
    - [ ] The audio assets
      > Knowing the end goal first will help guide in knowing what your experience will need to accomplish, and then you can work backwards from there.
 
-3. AR on a browser is more commonly referred to as what?
+3. AR on a browser is more commonly referred to as what? Select the best answer.
 
    - [x] **Web AR**
    - [ ] JavaScript

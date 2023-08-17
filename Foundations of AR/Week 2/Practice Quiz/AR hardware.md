@@ -6,7 +6,7 @@
    - [x] **Contact lenses**
      > Contact lenses are considered the future of AR hardware.
 
-2. Tracking technologies enable developers to identify and monitor changes in data that’s coming in from the real world. Select the best answer.
+2. Tracking technologies enable developers to identify and monitor changes in data that’s coming in from the real world.
 
    - [x] **True**
    - [ ] False
