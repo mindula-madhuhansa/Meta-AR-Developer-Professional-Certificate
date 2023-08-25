@@ -12,6 +12,268 @@
       "modelName": "generic_m_l_models_model"
     },
     {
+      "children": [
+        {
+          "alphaPremultiplicationMode": "should_premultiply",
+          "assetDataHash": "0fe070cb062410470b3c0c6b18299fef",
+          "assetLocator": "textures/compass_ORM.png",
+          "children": [
+            {
+              "assetDataHash": "0fe070cb062410470b3c0c6b18299fef",
+              "colorCount": 629,
+              "detectedAlphaChannel": "no_alpha",
+              "detectedOriginalFormat": "png",
+              "entropyOfDistribution": 5.510171291350567,
+              "modelName": "data_texture_metadata_model",
+              "name": "data_texture_metadata_model0",
+              "pixelsHigh": 1024,
+              "pixelsWide": 1024
+            }
+          ],
+          "colorEncoding": "linear",
+          "compressionQuality": "high",
+          "coordMapping": "none",
+          "excludeDuringExport": false,
+          "excludeFromPackage": false,
+          "filter": "bilinear",
+          "hasOfflineMipmaps": false,
+          "height": 1024,
+          "identifier": "texture:843932-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isExternalAsset": true,
+          "modelName": "texture",
+          "name": "compass_ORM",
+          "smartTextureTargetSizeLimit": "largest",
+          "targetSize": "largest",
+          "uWrapMode": "clamp",
+          "vWrapMode": "clamp",
+          "width": 1024
+        },
+        {
+          "alphaPremultiplicationMode": "should_premultiply",
+          "assetDataHash": "3b44efa99e832f71eeee9c9a27be6ad0",
+          "assetLocator": "textures/hat_ORM.png",
+          "children": [
+            {
+              "assetDataHash": "3b44efa99e832f71eeee9c9a27be6ad0",
+              "colorCount": 40114,
+              "detectedAlphaChannel": "no_alpha",
+              "detectedOriginalFormat": "png",
+              "entropyOfDistribution": 11.392825174498778,
+              "modelName": "data_texture_metadata_model",
+              "name": "data_texture_metadata_model0",
+              "pixelsHigh": 1024,
+              "pixelsWide": 1024
+            }
+          ],
+          "colorEncoding": "linear",
+          "compressionQuality": "high",
+          "coordMapping": "none",
+          "excludeDuringExport": false,
+          "excludeFromPackage": false,
+          "filter": "bilinear",
+          "hasOfflineMipmaps": false,
+          "height": 1024,
+          "identifier": "texture:843936-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isExternalAsset": true,
+          "modelName": "texture",
+          "name": "hat_ORM",
+          "smartTextureTargetSizeLimit": "largest",
+          "targetSize": "largest",
+          "uWrapMode": "clamp",
+          "vWrapMode": "clamp",
+          "width": 1024
+        },
+        {
+          "alphaPremultiplicationMode": "should_premultiply",
+          "assetDataHash": "07220bd95c55a0df0877daa47f76b36d",
+          "assetLocator": "textures/hat_normal.png",
+          "children": [
+            {
+              "assetDataHash": "07220bd95c55a0df0877daa47f76b36d",
+              "colorCount": 363020,
+              "detectedAlphaChannel": "no_alpha",
+              "detectedOriginalFormat": "png",
+              "entropyOfDistribution": 16.877385081194806,
+              "modelName": "data_texture_metadata_model",
+              "name": "data_texture_metadata_model0",
+              "pixelsHigh": 1024,
+              "pixelsWide": 1024
+            }
+          ],
+          "colorEncoding": "linear",
+          "compressionQuality": "high",
+          "coordMapping": "none",
+          "excludeDuringExport": false,
+          "excludeFromPackage": false,
+          "filter": "bilinear",
+          "hasOfflineMipmaps": false,
+          "height": 1024,
+          "identifier": "texture:843940-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isExternalAsset": true,
+          "modelName": "texture",
+          "name": "hat_normal",
+          "smartTextureTargetSizeLimit": "largest",
+          "targetSize": "largest",
+          "uWrapMode": "clamp",
+          "vWrapMode": "clamp",
+          "width": 1024
+        },
+        {
+          "alphaPremultiplicationMode": "should_premultiply",
+          "assetDataHash": "3c423213dfcce3aef3f3280881e17e61",
+          "assetLocator": "textures/compass_normal.png",
+          "children": [
+            {
+              "assetDataHash": "3c423213dfcce3aef3f3280881e17e61",
+              "colorCount": 56743,
+              "detectedAlphaChannel": "no_alpha",
+              "detectedOriginalFormat": "png",
+              "entropyOfDistribution": 9.038214061494822,
+              "modelName": "data_texture_metadata_model",
+              "name": "data_texture_metadata_model0",
+              "pixelsHigh": 1024,
+              "pixelsWide": 1024
+            }
+          ],
+          "colorEncoding": "linear",
+          "compressionQuality": "high",
+          "coordMapping": "none",
+          "excludeDuringExport": false,
+          "excludeFromPackage": false,
+          "filter": "bilinear",
+          "hasOfflineMipmaps": false,
+          "height": 1024,
+          "identifier": "texture:843944-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isExternalAsset": true,
+          "modelName": "texture",
+          "name": "compass_normal",
+          "smartTextureTargetSizeLimit": "largest",
+          "targetSize": "largest",
+          "uWrapMode": "clamp",
+          "vWrapMode": "clamp",
+          "width": 1024
+        },
+        {
+          "alphaPremultiplicationMode": "none",
+          "assetLocator": "845303-5946b568-9851-45f0-bc5b-92d5f7bc8666.png",
+          "children": [
+            {
+              "assetDataHash": "c968cb1fa125d586c6c5cd90549662a0",
+              "colorCount": 527,
+              "detectedAlphaChannel": "no_alpha",
+              "detectedOriginalFormat": "png",
+              "entropyOfDistribution": 4.188441763884123,
+              "modelName": "data_texture_metadata_model",
+              "pixelsHigh": 32,
+              "pixelsWide": 64
+            }
+          ],
+          "colorEncoding": "rgbd",
+          "compressionQuality": "high",
+          "coordMapping": "equirectangular",
+          "excludeDuringExport": false,
+          "excludeFromPackage": false,
+          "exportConfigurations": [
+            "textureExportConfig:845305-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+            "textureExportConfig:845307-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+            "textureExportConfig:845309-5946b568-9851-45f0-bc5b-92d5f7bc8666"
+          ],
+          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/texture/987343471653033",
+          "filter": "bilinear",
+          "hasOfflineMipmaps": false,
+          "height": 32,
+          "identifier": "texture:845302-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isExternalAsset": false,
+          "modelName": "texture",
+          "name": "8_sunny_vondelpark_diffuse",
+          "smartTextureTargetSizeLimit": "largest",
+          "targetSize": "largest",
+          "uWrapMode": "repeat",
+          "vWrapMode": "clamp",
+          "width": 64
+        },
+        {
+          "alphaPremultiplicationMode": "none",
+          "assetLocator": "845312-5946b568-9851-45f0-bc5b-92d5f7bc8666.png",
+          "colorEncoding": "linear",
+          "compressionQuality": "high",
+          "coordMapping": "equirectangular",
+          "excludeDuringExport": true,
+          "excludeFromPackage": false,
+          "exportConfigurations": [
+            "textureExportConfig:845314-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+            "textureExportConfig:845316-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+            "textureExportConfig:845318-5946b568-9851-45f0-bc5b-92d5f7bc8666"
+          ],
+          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/texture/987343471653033",
+          "filter": "bilinear",
+          "hasOfflineMipmaps": false,
+          "height": 256,
+          "identifier": "texture:845311-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isExternalAsset": false,
+          "modelName": "texture",
+          "name": "8_sunny_vondelpark_preview",
+          "smartTextureTargetSizeLimit": "largest",
+          "targetSize": "largest",
+          "uWrapMode": "repeat",
+          "vWrapMode": "clamp",
+          "width": 512
+        },
+        {
+          "alphaPremultiplicationMode": "none",
+          "assetLocator": "845321-5946b568-9851-45f0-bc5b-92d5f7bc8666.png",
+          "children": [
+            {
+              "assetDataHash": "ad6d66ac1dfdfc98afd85db8a63b8cb6",
+              "colorCount": 47627,
+              "detectedAlphaChannel": "eight_bit_full_range",
+              "detectedOriginalFormat": "png",
+              "entropyOfDistribution": 13.857016631501212,
+              "modelName": "data_texture_metadata_model",
+              "pixelsHigh": 256,
+              "pixelsWide": 512
+            }
+          ],
+          "colorEncoding": "rgbd",
+          "compressionQuality": "high",
+          "coordMapping": "equirectangular",
+          "excludeDuringExport": false,
+          "excludeFromPackage": false,
+          "exportConfigurations": [
+            "textureExportConfig:845323-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+            "textureExportConfig:845325-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+            "textureExportConfig:845327-5946b568-9851-45f0-bc5b-92d5f7bc8666"
+          ],
+          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/texture/987343471653033",
+          "filter": "trilinear",
+          "hasOfflineMipmaps": false,
+          "height": 256,
+          "identifier": "texture:845320-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isExternalAsset": false,
+          "modelName": "texture",
+          "name": "8_sunny_vondelpark_specular",
+          "smartTextureTargetSizeLimit": "largest",
+          "targetSize": "largest",
+          "uWrapMode": "repeat",
+          "vWrapMode": "clamp",
+          "width": 512
+        },
+        {
+          "diffuseEnvironmentTextureIdentifier": "texture:845302-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "identifier": "environment_texture_model:845329-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "modelName": "environment_texture_model",
+          "name": "8_sunny_vondelpark",
+          "previewEnvironmentTextureIdentifier": "texture:845311-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "specularEnvironmentTextureIdentifier": "texture:845320-5946b568-9851-45f0-bc5b-92d5f7bc8666"
+        }
+      ],
       "identifier": "textures:123583-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
       "modelName": "textures"
     },
@@ -96,10 +358,23 @@
         {
           "alphaTestEnabled": false,
           "alphaTestThreshold": 0,
+          "baseColorFactor": "0xff959595",
+          "baseColorTextureName": "texture:843940-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "baseColorTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
           "blendMode": "replace",
-          "colorEncoding": "linear",
+          "colorEncoding": "srgb",
           "cullMode": "back",
-          "diffuseFactor": "0xff959595",
+          "diffuseEnvironmentTextureTransform": {
+            "rotationX": 0,
+            "rotationY": 0,
+            "rotationZ": 0
+          },
           "diffuseTextureTransform": {
             "offsetU": 0,
             "offsetV": 0,
@@ -117,32 +392,27 @@
             "scaleU": 1,
             "scaleV": 1
           },
-          "identifier": "dependent_material_model:128084-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
-          "importIssues": {
-            "textures": [
-              {
-                "path": "hat_texture.png",
-                "type": 0
-              }
-            ]
-          },
-          "invertMultiply": false,
+          "environmentEnabled": false,
+          "identifier": "metallicRoughnessPbrMaterial:845072-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isBaseColorTextureIdentifierEnabled": true,
+          "isDiffuseEnvironmentTextureIdentifierEnabled": false,
           "isDiffuseTextureIdentifierEnabled": false,
           "isEmissiveTextureIdentifierEnabled": false,
-          "isMultiplyTextureIdentifierEnabled": false,
+          "isMetallicRoughnessTextureIdentifierEnabled": true,
           "isNormalTextureIdentifierEnabled": false,
-          "isReflectiveTextureIdentifierEnabled": false,
-          "isSpecularTextureIdentifierEnabled": false,
-          "lightingEnabled": true,
-          "modelName": "dependent_material_model",
-          "multiplyMode": "alpha_only",
-          "multiplyTextureTransform": {
+          "isOcclusionTextureIdentifierEnabled": true,
+          "isSpecularEnvironmentTextureIdentifierEnabled": false,
+          "metallicFactor": 0.5714285969734192,
+          "metallicRoughnessTextureName": "texture:843936-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "metallicRoughnessTextureTransform": {
             "offsetU": 0,
             "offsetV": 0,
             "rotation": 0,
             "scaleU": 1,
             "scaleV": 1
           },
+          "modelName": "metallicRoughnessPbrMaterial",
           "name": "hat_material",
           "normalTextureScale": 1,
           "normalTextureTransform": {
@@ -152,24 +422,24 @@
             "scaleU": 1,
             "scaleV": 1
           },
-          "readDepth": true,
-          "reflectiveTextureTransform": {
+          "occlusionStrength": 0,
+          "occlusionTextureName": "texture:843936-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "occlusionTextureTransform": {
             "offsetU": 0,
             "offsetV": 0,
             "rotation": 0,
             "scaleU": 1,
             "scaleV": 1
           },
-          "shininessFactor": 2,
-          "sourceIdentifier": "asset_collection_model:128109-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
-          "specularTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
+          "readDepth": true,
+          "roughnessFactor": 1,
+          "specularEnvironmentTextureTransform": {
+            "rotationX": 0,
+            "rotationY": 0,
+            "rotationZ": 0
           },
           "transparency": 1,
+          "vertexColorEnabled": false,
           "writeDepth": true,
           "writesToColorBufferAlpha": true,
           "writesToColorBufferBlue": true,
@@ -179,10 +449,23 @@
         {
           "alphaTestEnabled": false,
           "alphaTestThreshold": 0,
+          "baseColorFactor": "0xff959595",
+          "baseColorTextureName": "texture:843944-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "baseColorTextureTransform": {
+            "offsetU": 0,
+            "offsetV": 0,
+            "rotation": 0,
+            "scaleU": 1,
+            "scaleV": 1
+          },
           "blendMode": "replace",
-          "colorEncoding": "linear",
+          "colorEncoding": "srgb",
           "cullMode": "back",
-          "diffuseFactor": "0xff959595",
+          "diffuseEnvironmentTextureTransform": {
+            "rotationX": 0,
+            "rotationY": 0,
+            "rotationZ": 0
+          },
           "diffuseTextureTransform": {
             "offsetU": 0,
             "offsetV": 0,
@@ -200,32 +483,27 @@
             "scaleU": 1,
             "scaleV": 1
           },
-          "identifier": "dependent_material_model:128086-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
-          "importIssues": {
-            "textures": [
-              {
-                "path": "compass_texture.png",
-                "type": 0
-              }
-            ]
-          },
-          "invertMultiply": false,
+          "environmentEnabled": false,
+          "identifier": "metallicRoughnessPbrMaterial:844846-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "importIssues": {},
+          "isBaseColorTextureIdentifierEnabled": true,
+          "isDiffuseEnvironmentTextureIdentifierEnabled": false,
           "isDiffuseTextureIdentifierEnabled": false,
           "isEmissiveTextureIdentifierEnabled": false,
-          "isMultiplyTextureIdentifierEnabled": false,
+          "isMetallicRoughnessTextureIdentifierEnabled": true,
           "isNormalTextureIdentifierEnabled": false,
-          "isReflectiveTextureIdentifierEnabled": false,
-          "isSpecularTextureIdentifierEnabled": false,
-          "lightingEnabled": true,
-          "modelName": "dependent_material_model",
-          "multiplyMode": "alpha_only",
-          "multiplyTextureTransform": {
+          "isOcclusionTextureIdentifierEnabled": true,
+          "isSpecularEnvironmentTextureIdentifierEnabled": false,
+          "metallicFactor": 0.5539358854293823,
+          "metallicRoughnessTextureName": "texture:843932-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "metallicRoughnessTextureTransform": {
             "offsetU": 0,
             "offsetV": 0,
             "rotation": 0,
             "scaleU": 1,
             "scaleV": 1
           },
+          "modelName": "metallicRoughnessPbrMaterial",
           "name": "compass_material",
           "normalTextureScale": 1,
           "normalTextureTransform": {
@@ -235,24 +513,24 @@
             "scaleU": 1,
             "scaleV": 1
           },
-          "readDepth": true,
-          "reflectiveTextureTransform": {
+          "occlusionStrength": 0,
+          "occlusionTextureName": "texture:843932-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "occlusionTextureTransform": {
             "offsetU": 0,
             "offsetV": 0,
             "rotation": 0,
             "scaleU": 1,
             "scaleV": 1
           },
-          "shininessFactor": 2,
-          "sourceIdentifier": "asset_collection_model:128109-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
-          "specularTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
+          "readDepth": true,
+          "roughnessFactor": 0.23906706273555756,
+          "specularEnvironmentTextureTransform": {
+            "rotationX": 0,
+            "rotationY": 0,
+            "rotationZ": 0
           },
           "transparency": 1,
+          "vertexColorEnabled": false,
           "writeDepth": true,
           "writesToColorBufferAlpha": true,
           "writesToColorBufferBlue": true,
@@ -329,6 +607,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:127860-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
+              "layerIdentifier": "layer1",
               "modelName": "mesh",
               "name": "headOccluder",
               "nodeName": "headOccluder",
@@ -358,6 +637,7 @@
           "height": 0.22041338682174683,
           "hidden": false,
           "identifier": "master3_d_object_model:127872-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
+          "layerIdentifier": "layer1",
           "modelName": "master3_d_object_model",
           "name": "headOccluder",
           "outputVisibility": "preview|capture",
@@ -423,6 +703,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:128090-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
+              "layerIdentifier": "layer1",
               "modelName": "mesh",
               "name": "hat_compass",
               "nodeName": "hat_compass",
@@ -435,7 +716,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 100,
                 "sy": 100,
@@ -452,6 +733,7 @@
           "height": 0.16340303421020508,
           "hidden": false,
           "identifier": "master3_d_object_model:128105-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
+          "layerIdentifier": "layer1",
           "modelName": "master3_d_object_model",
           "name": "hat_compass",
           "outputVisibility": "preview|capture",
@@ -603,7 +885,7 @@
                                     {
                                       "identifier": "surface:128192-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "dependent_material_model:128084-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
+                                      "materialIdentifier": "metallicRoughnessPbrMaterial:845072-5946b568-9851-45f0-bc5b-92d5f7bc8666",
                                       "modelName": "surface",
                                       "name": "surface0",
                                       "sourceIdentifier": "surface:128099-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
@@ -612,7 +894,7 @@
                                     {
                                       "identifier": "surface:128195-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
                                       "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "dependent_material_model:128086-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
+                                      "materialIdentifier": "metallicRoughnessPbrMaterial:844846-5946b568-9851-45f0-bc5b-92d5f7bc8666",
                                       "modelName": "surface",
                                       "name": "surface1",
                                       "sourceIdentifier": "surface:128102-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
@@ -644,15 +926,15 @@
                               "sourceIdentifier": "mesh:128090-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
                               "tags": [],
                               "transform": {
-                                "rx": 0,
-                                "ry": 0,
-                                "rz": 0,
-                                "sx": 100,
-                                "sy": 100,
-                                "sz": 100,
-                                "x": 0.0031825900077819824,
-                                "y": -0.013178307563066483,
-                                "z": -0.024590186774730682
+                                "rx": -0.07131082564592361,
+                                "ry": 0.02245299145579338,
+                                "rz": 0.014623778872191906,
+                                "sx": 134.7157745361328,
+                                "sy": 134.7158660888672,
+                                "sz": 134.7158660888672,
+                                "x": 0.005270851776003838,
+                                "y": -0.09863841533660889,
+                                "z": -0.04598647356033325
                               },
                               "useEmbeddedBlendshapes": false
                             }
@@ -669,12 +951,12 @@
                           "sourceIdentifier": "master3_d_object_model:128105-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
                           "tags": [],
                           "transform": {
-                            "rx": 0.14256495237350464,
-                            "ry": -0.09865226596593857,
-                            "rz": 0.06629745662212372,
+                            "rx": 0.18113918602466583,
+                            "ry": -0.08919542282819748,
+                            "rz": 0.07580307871103287,
                             "sx": 0.9999998807907104,
-                            "sy": 1.0000001192092896,
-                            "sz": 0.9999999403953552,
+                            "sy": 0.9999997615814209,
+                            "sz": 0.9999997615814209,
                             "x": -0.00011000000085914508,
                             "y": 0.20565000176429749,
                             "z": -0.2735556364059448
@@ -735,15 +1017,15 @@
                               "sourceIdentifier": "mesh:127860-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
                               "tags": [],
                               "transform": {
-                                "rx": 0,
-                                "ry": 0,
-                                "rz": 0,
-                                "sx": 1,
-                                "sy": 1,
-                                "sz": 1,
-                                "x": 0,
-                                "y": 0,
-                                "z": 0
+                                "rx": -0.03040372021496296,
+                                "ry": -0.015488214790821075,
+                                "rz": 0.006363309919834137,
+                                "sx": 1.1666665077209473,
+                                "sy": 1.1666661500930786,
+                                "sz": 1.166666030883789,
+                                "x": -0.00008137524127960205,
+                                "y": -0.001397646963596344,
+                                "z": -0.1918329894542694
                               },
                               "useEmbeddedBlendshapes": false
                             }
@@ -779,6 +1061,40 @@
                       "layerIdentifier": "layer0",
                       "modelName": "facetracker",
                       "name": "faceTracker0",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      }
+                    },
+                    {
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "environmentTextureName": "environment_texture_model:845329-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+                      "environmentTextureTransform": {
+                        "rotationX": 0,
+                        "rotationY": 0,
+                        "rotationZ": 0
+                      },
+                      "hidden": false,
+                      "identifier": "environment_light_source_model:845298-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+                      "isEnvironmentTextureIdentifierEnabled": false,
+                      "layerIdentifier": "layer1",
+                      "modelName": "environment_light_source_model",
+                      "name": "environmentLight0",
                       "outputVisibility": "preview|capture",
                       "physicsEnabled": false,
                       "tags": [],
@@ -1052,6 +1368,143 @@
       "basicCompressionMethod": "fastest",
       "basicSmartQuality": 100,
       "basicSmartTextureTargetSizeLimit": "max1024",
+      "children": [
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845305-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 0,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845307-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 2,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845309-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 1,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845314-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 0,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845316-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 2,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845318-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 1,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845323-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 0,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845325-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 2,
+          "useDithering": false
+        },
+        {
+          "accuracy": "best",
+          "active": true,
+          "cachedDeflatedExportSize": 0,
+          "cachedExportSize": 0,
+          "compressionFormat": 0,
+          "identifier": "textureExportConfig:845327-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "includeAlphaChannel": true,
+          "maxResolution": "max1024",
+          "method": "medium",
+          "modelName": "textureExportConfig",
+          "smartQuality": 100,
+          "targetFormat": 1,
+          "useDithering": false
+        }
+      ],
       "etcCompressionAccuracy": "normal",
       "etcCompressionFormat": 0,
       "etcSmartQuality": 100,
@@ -1206,7 +1659,7 @@
       "effectUsesIdentity": false,
       "effectUsesImageAntiAliasing": false,
       "effectUsesImageAssets": false,
-      "effectUsesImageBasedLighting": false,
+      "effectUsesImageBasedLighting": true,
       "effectUsesInstantGame": false,
       "effectUsesInstruction": true,
       "effectUsesIntent": false,
@@ -1253,7 +1706,7 @@
       "effectUsesOpticalFlow": false,
       "effectUsesOpusCodec": false,
       "effectUsesOverlayOutput": false,
-      "effectUsesPBRMaterial": false,
+      "effectUsesPBRMaterial": true,
       "effectUsesPageScopedIdentity": false,
       "effectUsesParticipant": false,
       "effectUsesParticleSystem": false,
@@ -1415,10 +1868,30 @@
       "worldTrackerUsesFaceTracker": false
     },
     {
+      "children": [
+        {
+          "assetAuthor": "Spark AR Assets",
+          "assetModelIdentifier": "environment_texture_model:845329-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "assetTitle": "Sunny Vondelpark",
+          "assetURLString": "",
+          "identifier": "asset_attribution_model:845333-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "licenseModelIdentifier": "license_model:845331-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "modelName": "asset_attribution_model"
+        }
+      ],
       "identifier": "asset_attributions_model:123627-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
       "modelName": "asset_attributions_model"
     },
     {
+      "children": [
+        {
+          "identifier": "license_model:845331-5946b568-9851-45f0-bc5b-92d5f7bc8666",
+          "linkURLString": "https://creativecommons.org/licenses/by/4.0/",
+          "modelName": "license_model",
+          "name": "Creative Commons Attribution 4.0",
+          "slug": "CC BY 4.0"
+        }
+      ],
       "identifier": "licenses_model:123629-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
       "modelName": "licenses_model"
     },
@@ -1499,7 +1972,10 @@
   "name": "Effect",
   "objects": [
     {
-      "categoriesOrder": [],
+      "categoriesOrder": [
+        "textures",
+        "materials"
+      ],
       "identifier": "assets_config_model:123796-d03ac909-14a9-44b5-aa4b-deb008ecc2e2",
       "modelName": "assets_config_model"
     }
