@@ -394,6 +394,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:91887-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+              "layerIdentifier": "layer0",
               "modelName": "mesh",
               "name": "safari_mask",
               "nodeName": "safari_mask",
@@ -406,7 +407,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 100,
                 "sy": 100,
@@ -447,6 +448,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:91899-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+              "layerIdentifier": "layer0",
               "modelName": "mesh",
               "name": "safari_environment",
               "nodeName": "safari_environment",
@@ -459,7 +461,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 100,
                 "sy": 100,
@@ -500,6 +502,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:91911-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+              "layerIdentifier": "layer0",
               "modelName": "mesh",
               "name": "safari_giraffe",
               "nodeName": "safari_giraffe",
@@ -512,7 +515,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 100,
                 "sy": 100,
@@ -553,6 +556,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:91923-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+              "layerIdentifier": "layer0",
               "modelName": "mesh",
               "name": "safari_meerkat",
               "nodeName": "safari_meerkat",
@@ -565,7 +569,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 100,
                 "sy": 100,
@@ -606,6 +610,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:91935-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+              "layerIdentifier": "layer0",
               "modelName": "mesh",
               "name": "safari_sun",
               "nodeName": "safari_sun",
@@ -618,7 +623,7 @@
               "tags": [],
               "transform": {
                 "rx": 0,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 100,
                 "sy": 100,
@@ -659,6 +664,7 @@
               ],
               "hidden": false,
               "identifier": "mesh:91947-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+              "layerIdentifier": "layer0",
               "modelName": "mesh",
               "name": "safari_giraffe_mask",
               "nodeName": "safari_giraffe_mask",
@@ -671,7 +677,7 @@
               "tags": [],
               "transform": {
                 "rx": -1.5707963705062866,
-                "ry": -0,
+                "ry": 0,
                 "rz": 0,
                 "sx": 1,
                 "sy": 1,
@@ -688,6 +694,7 @@
           "height": 3.016519784927368,
           "hidden": false,
           "identifier": "master3_d_object_model:91959-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+          "layerIdentifier": "layer0",
           "modelName": "master3_d_object_model",
           "name": "safari",
           "outputVisibility": "preview|capture",
@@ -1104,7 +1111,7 @@
                               "tags": [],
                               "transform": {
                                 "rx": 0,
-                                "ry": -0,
+                                "ry": 0,
                                 "rz": 0,
                                 "sx": 100,
                                 "sy": 100,
@@ -1210,15 +1217,15 @@
                       "shapeType": 0,
                       "tags": [],
                       "transform": {
-                        "rx": 0,
-                        "ry": 0,
-                        "rz": 0,
-                        "sx": 1,
+                        "rx": -1.4901159417490817E-8,
+                        "ry": -4.4703462265260896E-8,
+                        "rz": -1.8626442610525373E-9,
+                        "sx": 1.0000004768371582,
                         "sy": 1,
-                        "sz": 1,
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
+                        "sz": 1.0000001192092896,
+                        "x": 0.012838907539844513,
+                        "y": -0.02007572539150715,
+                        "z": -0.3101346492767334
                       }
                     }
                   ],
@@ -1407,7 +1414,7 @@
     {
       "children": [
         {
-          "assetDataHash": "42405e11419b08a06ee3ccfd328d0be8",
+          "assetDataHash": "012cf188e488b688ecf136239384eb1e",
           "assetLocator": "patches/night_to_day_slider.arp",
           "excludeDuringExport": false,
           "excludeFromPackage": false,
@@ -1928,7 +1935,7 @@
     }
   ],
   "projectFormatType": "single_file",
-  "revision": "9155159dcfcc0b0094a0186de3ee2a82f39f1",
+  "revision": "101793c303adba46374c1e93740b6801a440f0",
   "usingPatchesV2": true,
   "version": {
     "dev": 0,
@@ -2007,13 +2014,7 @@
           "producer_patch_model:93796-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
           "producer_patch_model:93886-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
           "template_patch_model:92806-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-          "template_patch_model:96028-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-          "template_patch_model:96030-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-          "template_patch_model:96032-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-          "template_patch_model:96034-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-          "template_patch_model:96040-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
           "template_patch_model:96046-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-          "template_patch_model:96608-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
           "template_patch_model:96890-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
           "template_patch_model:98320-59dcfcc0-b009-4a01-86de-3ee2a82f39f1"
         ]
@@ -2148,61 +2149,6 @@
         ]
       },
       {
-        "identifier": "template_patch_model:96028-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "modelName": "template_patch_model",
-        "name": "Timed Instruction",
-        "position": [
-          0,
-          0
-        ],
-        "templateId": "builtin.group.timedInstruction",
-        "values": []
-      },
-      {
-        "identifier": "template_patch_model:96030-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "modelName": "template_patch_model",
-        "name": "Timed Instruction",
-        "position": [
-          0,
-          0
-        ],
-        "templateId": "builtin.group.timedInstruction",
-        "values": []
-      },
-      {
-        "identifier": "template_patch_model:96032-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "modelName": "template_patch_model",
-        "name": "Timed Instruction",
-        "position": [
-          0,
-          0
-        ],
-        "templateId": "builtin.group.timedInstruction",
-        "values": []
-      },
-      {
-        "identifier": "template_patch_model:96034-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "modelName": "template_patch_model",
-        "name": "Conditional Instruction",
-        "position": [
-          0,
-          0
-        ],
-        "templateId": "builtin.conditionalInstructionComponent",
-        "values": []
-      },
-      {
-        "identifier": "template_patch_model:96040-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "modelName": "template_patch_model",
-        "name": "Conditional Instruction",
-        "position": [
-          0,
-          0
-        ],
-        "templateId": "builtin.conditionalInstructionComponent",
-        "values": []
-      },
-      {
         "identifier": "template_patch_model:96046-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
         "modelName": "template_patch_model",
         "name": "Timed Instruction",
@@ -2227,17 +2173,6 @@
             }
           }
         ]
-      },
-      {
-        "identifier": "template_patch_model:96608-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "modelName": "template_patch_model",
-        "name": "Conditional Instruction",
-        "position": [
-          0,
-          0
-        ],
-        "templateId": "builtin.conditionalInstructionComponent",
-        "values": []
       },
       {
         "identifier": "template_patch_model:96890-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
