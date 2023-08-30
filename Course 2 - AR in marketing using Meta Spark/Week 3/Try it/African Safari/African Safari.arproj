@@ -1414,7 +1414,7 @@
     {
       "children": [
         {
-          "assetDataHash": "012cf188e488b688ecf136239384eb1e",
+          "assetDataHash": "f8c28699e13bbba049db1eef54601920",
           "assetLocator": "patches/night_to_day_slider.arp",
           "excludeDuringExport": false,
           "excludeFromPackage": false,
@@ -1935,7 +1935,7 @@
     }
   ],
   "projectFormatType": "single_file",
-  "revision": "101793c303adba46374c1e93740b6801a440f0",
+  "revision": "1010796733ba0d92b044a2aabdc5657b5ffc4b",
   "usingPatchesV2": true,
   "version": {
     "dev": 0,
@@ -1944,6 +1944,22 @@
   },
   "visual_programming": {
     "connections": [
+      {
+        "fromPatch": "producer_patch_model:93886-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+        "fromPort": "1000",
+        "identifier": "patch_connection_model:92783-54eda836-f2f0-4b84-9c36-95a2d12092ed",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:96890-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:96890-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:92791-54eda836-f2f0-4b84-9c36-95a2d12092ed",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:96046-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
+        "toPort": "1"
+      },
       {
         "fromPatch": "patch_asset_instance_model:93884-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
         "fromPort": "10331148634929518440",
@@ -1991,14 +2007,6 @@
         "modelName": "patch_connection_model",
         "toPatch": "consumer_patch_model:95750-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
         "toPort": "101"
-      },
-      {
-        "fromPatch": "template_patch_model:98320-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "fromPort": "100",
-        "identifier": "patch_connection_model:98322-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "modelName": "patch_connection_model",
-        "toPatch": "template_patch_model:96046-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
-        "toPort": "1"
       }
     ],
     "graphs": [
@@ -2065,8 +2073,8 @@
         "object": "sceneObject:92021-59dcfcc0-b009-4a01-86de-3ee2a82f39f1",
         "objectProperty": "visible",
         "position": [
-          572,
-          764
+          620,
+          860
         ],
         "values": [
           {
@@ -2153,8 +2161,8 @@
         "modelName": "template_patch_model",
         "name": "Timed Instruction",
         "position": [
-          -220,
-          596
+          716,
+          716
         ],
         "templateId": "builtin.group.timedInstruction",
         "values": [
@@ -2179,8 +2187,8 @@
         "modelName": "template_patch_model",
         "name": "Conditional Instruction",
         "position": [
-          -196,
-          476
+          428,
+          716
         ],
         "templateId": "builtin.conditionalInstructionComponent",
         "values": [
@@ -2205,8 +2213,8 @@
         "modelName": "template_patch_model",
         "name": "Start",
         "position": [
-          -388,
-          596
+          -76,
+          884
         ],
         "templateId": "builtin.start",
         "values": []
