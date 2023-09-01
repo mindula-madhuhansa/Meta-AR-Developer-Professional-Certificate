@@ -1,0 +1,181 @@
+{
+  "objects": [],
+  "usingPatchesV2": true,
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 170
+  },
+  "visual_programming": {
+    "connections": [
+      {
+        "fromPatch": "port_forwarding_patch_model:26813-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "fromPort": "5084811396183353721",
+        "identifier": "patch_connection_model:27063-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:26953-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "port_forwarding_patch_model:26771-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "fromPort": "2086301453544815249",
+        "identifier": "patch_connection_model:821491-86fd1573-1e9b-420f-822e-9ec36a31ba6f",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:821434-86fd1573-1e9b-420f-822e-9ec36a31ba6f",
+        "toPort": "1"
+      },
+      {
+        "fromPatch": "template_patch_model:26953-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:821492-86fd1573-1e9b-420f-822e-9ec36a31ba6f",
+        "modelName": "patch_connection_model",
+        "toPatch": "template_patch_model:821434-86fd1573-1e9b-420f-822e-9ec36a31ba6f",
+        "toPort": "2"
+      },
+      {
+        "fromPatch": "template_patch_model:821434-86fd1573-1e9b-420f-822e-9ec36a31ba6f",
+        "fromPort": "100",
+        "identifier": "patch_connection_model:821493-86fd1573-1e9b-420f-822e-9ec36a31ba6f",
+        "modelName": "patch_connection_model",
+        "toPatch": "port_forwarding_patch_model:26855-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "toPort": "10899848657892992259"
+      }
+    ],
+    "patches": [
+      {
+        "groupDescription": "",
+        "groupName": "Opacity Fader",
+        "identifier": "patch_group_model:26755-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "inputPorts": [
+          "patch_input_port_model:27009-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+          "patch_input_port_model:27023-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27"
+        ],
+        "modelName": "patch_group_model",
+        "name": "Opacity Fader",
+        "outputPorts": [
+          "patch_output_port_model:27037-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27"
+        ],
+        "position": [
+          -28,
+          620
+        ],
+        "subpatches": [
+          "port_forwarding_patch_model:26771-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+          "port_forwarding_patch_model:26813-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+          "port_forwarding_patch_model:26855-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+          "template_patch_model:26953-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+          "template_patch_model:821434-86fd1573-1e9b-420f-822e-9ec36a31ba6f"
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:26771-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Texture",
+        "position": [
+          -292,
+          -172
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:26813-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Alpha",
+        "position": [
+          -292,
+          -124
+        ],
+        "values": []
+      },
+      {
+        "identifier": "port_forwarding_patch_model:26855-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "port_forwarding_patch_model",
+        "name": "Faded Texture",
+        "position": [
+          524,
+          -196
+        ],
+        "values": []
+      },
+      {
+        "identifier": "template_patch_model:26953-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "template_patch_model",
+        "name": "Swizzle",
+        "position": [
+          -124,
+          -148
+        ],
+        "templateId": "builtin.shaders.vectorSwizzler",
+        "values": [
+          {
+            "port": "2",
+            "value": {
+              "t": "string",
+              "v": "111x"
+            }
+          }
+        ]
+      },
+      {
+        "identifier": "template_patch_model:821434-86fd1573-1e9b-420f-822e-9ec36a31ba6f",
+        "modelName": "template_patch_model",
+        "name": "Multiply",
+        "position": [
+          68,
+          -196
+        ],
+        "templateId": "builtin.variadicMathMul",
+        "values": [],
+        "variadicInfo": {
+          "input": 2
+        },
+        "variantInfo": "vec4"
+      }
+    ],
+    "ports": [
+      {
+        "defaultValue": {
+          "t": "object_ref",
+          "v": ""
+        },
+        "forwardingPatch": "port_forwarding_patch_model:26771-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "identifier": "patch_input_port_model:27009-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "patch_input_port_model",
+        "portDescription": "Texture you want to fade",
+        "portName": "Texture",
+        "portTag": "2086301453544815249",
+        "portType": "texture",
+        "widgetStyle": "default"
+      },
+      {
+        "defaultValue": {
+          "t": "double",
+          "v": 1
+        },
+        "forwardingPatch": "port_forwarding_patch_model:26813-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "identifier": "patch_input_port_model:27023-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "patch_input_port_model",
+        "portDescription": "Alpha signal",
+        "portName": "Alpha",
+        "portTag": "5084811396183353721",
+        "portType": "float",
+        "widgetStyle": "default"
+      },
+      {
+        "defaultValue": {
+          "t": "object_ref",
+          "v": ""
+        },
+        "forwardingPatch": "port_forwarding_patch_model:26855-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "identifier": "patch_output_port_model:27037-dd9cdfc6-bfe0-4518-9eca-3b7884bb2c27",
+        "modelName": "patch_output_port_model",
+        "portDescription": "Faded texture with combined alphas",
+        "portName": "Faded Texture",
+        "portTag": "10899848657892992259",
+        "portType": "texture",
+        "widgetStyle": "default"
+      }
+    ]
+  }
+}
